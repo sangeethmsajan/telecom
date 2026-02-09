@@ -1,0 +1,12 @@
+{
+  "name": "cdr-producer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "amqplib": "^0.10.3"
+  }
+}
